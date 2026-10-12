@@ -6,11 +6,13 @@ Trabalho onde os dados e as regras de negócio se encontram: integrações via J
 
 ### Stack
 - **Linguagens:** Java, C#, Progress (OpenEdge ABL), JavaScript
-- **Banco de dados:** Oracle (PL/SQL), SQL, PostgreSQL, MySQL
+- **Frameworks:** Spring Boot, ASP.NET Core
+- **Banco de dados e cache:** Oracle (PL/SQL), SQL, PostgreSQL, MySQL, Redis
 - **APIs e integração:** REST, JSON
 - **Ferramentas:** Git, Docker, Postman
 
 ### Projetos em destaque
+- [microsservicos-usuarios-pedidos](https://github.com/carlosolivserafim/microsservicos-usuarios-pedidos) — dois microsserviços em Spring Boot que se comunicam via REST, com PostgreSQL, cache em Redis, Swagger, Docker e testes unitários.
 - [academia-agenda](https://github.com/carlosolivserafim/academia-agenda) — API REST em .NET 8 para agendamento de aulas, com regras de negócio por plano e capacidade (EF Core, Swagger).
 - [api-gestao-clientes](https://github.com/carlosolivserafim/api-gestao-clientes) — API REST de clientes em ASP.NET Core com Entity Framework e PostgreSQL.
 - [Projeto_Integrador](https://github.com/carlosolivserafim/Projeto_Integrador) — aplicação desktop em Java para gestão de projetos, com CRUD via JDBC e MySQL.
